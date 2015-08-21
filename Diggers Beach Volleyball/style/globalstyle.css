@@ -1,0 +1,65 @@
+@charset "utf-8";
+#container {
+	background-image: url(../images/beachNet.jpg);
+}
+.Inbox_text {
+	font-family: "Times New Roman", Times, serif;
+	color: #FFF;
+}
+
+h1 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 60px;
+	color: #00FFCC;
+	background-image: url(../images/sand.jpg);
+	text-align: center;
+	height: 100px;
+	border-top-style: double;
+	border-right-style: double;
+	border-bottom-style: double;
+	border-left-style: double;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+}
+.pic {
+	text-align: left;
+	vertical-align: baseline;
+	background-color: #69F;
+}
+
+.content {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 20px;
+	color: #FFF;
+	line-height: 40px;
+	padding-left: 20px;
+	border-top-width: medium;
+	border-right-width: medium;
+	border-bottom-width: medium;
+	border-left-width: medium;
+	border-top-style: double;
+	border-right-style: double;
+	border-bottom-style: double;
+	border-left-style: double;
+	background-color: #F63;
+}
+
+#menubar {
+	font-family: "Comic Sans MS", cursive;
+	color: #F60;
+	font-size: 24px;
+	background-color: #66C;
+	border-top-width: thick;
+	border-right-width: thick;
+	border-bottom-width: thick;
+	border-left-width: thick;
+	border-top-style: double;
+	border-right-style: double;
+	border-bottom-style: double;
+	border-left-style: double;
+}
+#picture {
+	left:50px;
+}
